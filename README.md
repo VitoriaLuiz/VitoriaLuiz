@@ -1,4 +1,4 @@
-## Olá, Eusou a Vitoria Vaz
+## Olá, Eu sou a Vitoria Vaz
 
 👨🏻‍💻Atualmente, estou em busca de uma oportunidade de estágio.
 <br>
