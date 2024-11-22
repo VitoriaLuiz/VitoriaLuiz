@@ -12,7 +12,7 @@
   <h3>GitHub Stats</h3>
 <br>
 <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VitoriaLuiz&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=191622&title_color=FF79C6&text_color=E1E1E6&theme=jolly" alt="GitHub stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaLuiz&layout=compact&bg_color=191622&title_color=FF79C6&text_color=E1E1E6"/>
+
 
 
 </div>
