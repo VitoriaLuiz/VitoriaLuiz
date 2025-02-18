@@ -1,7 +1,6 @@
 ## Olá, eu sou a Vitoria Vaz
 
-👨🏻‍💻Atualmente, estou em busca de uma oportunidade de estágio.
-<br>
+
 🎓Graduando em Tecnologia em Análise e Desenvolvimento de Sistemas
 <br>
 <br>
