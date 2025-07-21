@@ -6,7 +6,7 @@ Olá! Me chamo Vitoria Vaz Luiz, tenho 21 anos e sou natural de Belo Horizonte -
 Atualmente curso Análise e Desenvolvimento de Sistemas na PUC Minas e estou em transição de carreira — foi na área da tecnologia que me encontrei e me apaixonei! 💙
 
 Estou dando meus primeiros passos no universo da programação com muita dedicação e entusiasmo.
-Tenho direcionado meus estudos para a linguagem C# e os fundamentos de back-end, sempre buscando aplicar o que aprendo em projetos pessoais e cursos complementares. 🚀
+Tenho direcionado meus estudos para as linguagens C# e JavaScript, além dos fundamentos de back-end, sempre buscando aplicar o que aprendo em projetos pessoais e cursos complementares. 🚀
 </br>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350" height="200" style="float: left; margin-right: 10px;">
 <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="300" height="250" style="float: left;">
