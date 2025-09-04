@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack em Formação`**
 
-Olá! Me chamo Vitoria Vaz Luiz, tenho 21 anos e sou natural de Belo Horizonte – MG.
+Olá! Me chamo Vitoria Vaz, tenho 21 anos e sou natural de Belo Horizonte – MG.
 Atualmente curso Análise e Desenvolvimento de Sistemas na PUC Minas, área pela qual me encontrei e me apaixonei! 💙
 
 Estou dando meus primeiros passos no universo da programação, com dedicação e entusiasmo, sempre em busca de novos aprendizados. Tenho direcionado meus estudos para os fundamentos de back-end, aplicando os conhecimentos adquiridos em projetos acadêmicos e cursos complementares. 🚀
